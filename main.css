@@ -422,6 +422,8 @@ body{
     }
     .primary__button {
       height: 50px;
+        background-color: red;
+      color: white;
     }
   
     .feature {
